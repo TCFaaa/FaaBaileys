@@ -1,16 +1,16 @@
 {
-    "name": "GupongXyz/PongBail",
+    "name": "TCFaaa/FaaBaileys",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By GupongShop",
+    "description": "WhatsApp Modified By FaaOffc",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/GupongXyz/PongBail",
+    "homepage": "https://github.com/TCFaaa/FaaBaileys",
     "repository": {
-        "url": "https://github.com/GupongXyz/PongBail"
+        "url": "https://github.com/TCFaaa/FaaBaileys"
     },
     "license": "MIT",
-    "author": "Gupong - Shop",
+    "author": "FaaOffcNotDev",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
